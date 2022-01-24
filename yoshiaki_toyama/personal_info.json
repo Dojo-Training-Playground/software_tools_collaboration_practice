@@ -1,0 +1,8 @@
+{
+    "First_Name": "Yoshiaki",
+    "Last_Name": "Toyama",
+    "Skills": ["Python", "C++", "Robotics"],
+    "age": 28,
+    "favorite_foods": ["Ramen", "Sushi", "Humburger"],
+    "hobbies": ["Playing guitar", "Music", "Driving cars", "Travelling"]
+  }
