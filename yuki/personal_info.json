@@ -1,0 +1,8 @@
+{
+    "First_Name": "Yuki",
+    "Last_Name": "Tanaka",
+    "Skills": ["Speak Japanese", "Python", "HTML"],
+    "age": 28,
+    "favorite_foods": ["ramen", "Sushi", "Okonomiyaki"],
+    "hobbies": ["Camp", "Traveling", "Golf"]
+  }
